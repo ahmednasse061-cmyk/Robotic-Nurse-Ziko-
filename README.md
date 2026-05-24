@@ -403,7 +403,7 @@ The LCD is connected via an **I2C backpack** (PCF8574 I/O expander). All communi
 
 ---
 
-## 🖼️ Project Gallery
+## project-overview
 
 ### 📸 Photos
 
@@ -416,7 +416,7 @@ The LCD is connected via an **I2C backpack** (PCF8574 I/O expander). All communi
 
 | Video | Description |
 |---|---|
-| [📱 SMS Testing]([videos/sms_test.mp4](https://drive.google.com/file/d/1ZhcokTljZK90xDJjAGgwmMymoWi-Lifq/view?usp=drive_link)) | SIM800L sending emergency and patient request SMS alerts via USART1 AT commands |
+| [📱 SMS Testing]((https://drive.google.com/file/d/1ZhcokTljZK90xDJjAGgwmMymoWi-Lifq/view?usp=drive_link)) | SIM800L sending emergency and patient request SMS alerts via USART1 AT commands |
 | [🔔 Robot Ring / Audio](https://drive.google.com/file/d/1uhTMvsidw-IoVPXe2Mzyv1zYMgSA-ZNL/view?usp=drive_link) | DFPlayer audio notification system playing pre-recorded alerts |
 | [🔄 360° View & Movement](https://drive.google.com/file/d/11GONHEGwSxaOF7qzNA99Y5vbGS1wmrRp/view?usp=drive_link) | Full robot overview with live differential drive movement demo — forward, backward, left, right |
 | [🦾 Robotic Arm](https://drive.google.com/file/d/11vmQge6gEoCyOmKDpHcNmTbRrLkG8fAQ/view?usp=drive_link) | Fixed arm sequence: move down → pick up medicine → lift |
