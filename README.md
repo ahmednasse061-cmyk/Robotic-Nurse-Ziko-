@@ -430,7 +430,7 @@ The LCD is connected via an **I2C backpack** (PCF8574 I/O expander). All communi
 | Ahmed Abd Alaziz | Robot chassis design, alcohol sanitizer system |
 | Ahmed Nasser | Rotating medicine drawer, LCD interface |
 | Adam Khaled | Robotic arm design & control |
-| Adam Ehab | LCD interface, buzzer integration |
+| Adam Ehab |  buzzer integration |
 | Adham Ashraf | GSM module, audio system, robotic arm mechanical design |
 | Abdullah Hussein | Injection assistance system |
 | Abdullah Hesham | Temperature sensor, hardware integration, robotic arm |
